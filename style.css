@@ -1,0 +1,22 @@
+body {
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  margin: 0;
+  padding: 50px;
+  background-color: #f0f0f0;
+  transition: background 0.5s ease;
+}
+
+.container {
+  padding: 2em;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  background: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+}
